@@ -3,5 +3,6 @@
     public class TicketRequest
     {
         public string input { get; set; }
+        public string? stepsJson { get; set; }
     }
 }
