@@ -1,0 +1,6 @@
+@Jira_Creator_HostAddress = http://localhost:5118
+
+GET {{Jira_Creator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
